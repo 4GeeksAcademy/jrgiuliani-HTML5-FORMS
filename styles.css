@@ -1,0 +1,27 @@
+#Send {
+    margin-right: 4px;
+}
+
+#tarjetas {
+    width: 17%;
+}
+#vacio {
+    width:33%
+}
+
+#mensaje {
+    width: 50%;
+}
+
+#titulo {
+    padding: 0;
+}
+#alerta {
+    margin-top: 20px;
+}
+#nombre {
+    width: 50%;
+}
+#apellido {
+    width: 50%;
+}
